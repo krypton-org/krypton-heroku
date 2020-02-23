@@ -11,5 +11,9 @@
         "Service"
     ],
     "success_url": "/",
-    "addons": ["mongolab"]
+    "addons": [
+        {
+            "plan":"mongolab:sandbox"
+        }
+    ]
 }
