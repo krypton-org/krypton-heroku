@@ -2,6 +2,8 @@ import express from 'express';
 import { GraphQLAuthService } from 'graphql-auth-service';
 
 const app = express();
+console.log(process.env.MONGODB_URI);
+console.log("yooooooooooooooooooo");
 
 const config = {
     dbConfig: {
