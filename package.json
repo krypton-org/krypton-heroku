@@ -20,7 +20,7 @@
   "homepage": "https://github.com/jrebecchi/GraphQL-Auth-Service-Heroku#readme",
   "dependencies": {
     "express": "^4.17.1",
-    "graphql-auth-service": "^2.0.0",
+    "graphql-auth-service": "^2.1.0",
     "nodemailer": "^6.4.2"
   },
   "devDependencies": {
