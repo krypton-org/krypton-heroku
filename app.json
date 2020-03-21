@@ -1,6 +1,6 @@
 {
     "name": "Krypton Authentication",
-    "description": "Try Krypton Authentication, an Express middleware offering an API for login, registration, password recovery and account management with GraphQL & JSON Web Tokens.",
+    "description": "Express middleware offering an API for login, registration, password recovery and account management with GraphQL & JSON Web Tokens.",
     "repository": "https://github.com/krypton-org/krypton-heroku.git",
     "logo": "https://raw.githubusercontent.com/krypton-org/krypton-auth/master/docs/_static/logo.png",
     "keywords": [
