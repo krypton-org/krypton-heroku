@@ -1,1 +1,1 @@
-# Demo of GraphQL-Auth-Service
+# Heroku deployment of Krypton Authentication
