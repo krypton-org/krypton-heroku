@@ -1,5 +1,5 @@
 {
-    "name": "GraphQL Auth Service Sample",
+    "name": "Krypton Authentication",
     "description": "Try Krypton Authentication, an Express middleware offering an API for login, registration, password recovery and account management with GraphQL & JSON Web Tokens.",
     "repository": "https://github.com/jrebecchi/GraphQL-Auth-Service-Heroku.git",
     "logo": "https://raw.githubusercontent.com/krypton-org/krypton-auth/master/docs/_static/logo.png",
