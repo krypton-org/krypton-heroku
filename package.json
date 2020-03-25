@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jrebecchi/GraphQL-Auth-Service-Heroku.git"
+    "url": "git+https://github.com/krypton-org/krypton-heroku.git"
   },
   "author": "jrebecchi",
   "license": "ISC",
