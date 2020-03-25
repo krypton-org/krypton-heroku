@@ -1,7 +1,7 @@
 {
-  "name": "graphql-auth-service-heroku",
-  "version": "2.0.0",
-  "description": "Heroku deployment of GraphQL Auth Service.",
+  "name": "krypton-heroku",
+  "version": "1.0.0",
+  "description": "Heroku deployment of Krypton Authentication.",
   "main": "lib/index.js",
   "scripts": {
     "start": "node lib/index.js",
@@ -21,7 +21,6 @@
   "dependencies": {
     "@krypton-org/krypton-auth": "^1.0.0",
     "express": "^4.17.1",
-    "krypton-auth": "file:../krypton-auth/krypton-auth-1.0.0.tgz",
     "nodemailer": "^6.4.2"
   },
   "devDependencies": {
